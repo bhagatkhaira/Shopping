@@ -1,2 +1,2 @@
 # Shopping
-Shopping Web page  using C# 
+Shopping Web page  using C# and .NET
